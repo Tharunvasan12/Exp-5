@@ -1,8 +1,6 @@
 # Exp - 5 STUDENT ENROLLMENT SYSTEM
-
 # AIM:
 to draw the UML diagram for student enrollment system
-
 # SRS (Procedure):
 Create the following diagrams in StarUML:
 )USE CASE : A use case diagram is a type of behavioral diagram in the Unified Modeling Language (UML) that visually represents the interactions between actors (users or other systems) and a system to achieve specific goals, called use cases.
@@ -19,27 +17,18 @@ Create the following diagrams in StarUML:
 
 # DIAGRAMS:
  Use Case Diagram
-
 ![image](https://github.com/user-attachments/assets/b1e5cfd0-2fdc-4d82-8128-14974565edf4)
-
  Class Diagram
-
 ![image](https://github.com/user-attachments/assets/16421cca-88c1-49e7-a944-61a2bd452211)
-
  Activity Diagram
-
 ![image](https://github.com/user-attachments/assets/e0c40619-0b9c-466b-94a8-5bdaf7e42b7a)
-
  Package Diagram
 ![image](https://github.com/user-attachments/assets/71af61b9-888f-47eb-ad65-6597814ce451)
-
  Communication Diagram
-
 ![image](https://github.com/user-attachments/assets/f6864011-904c-4320-a339-967b63835b40)
-
  Sequence Diagram
-
 ![image](https://github.com/user-attachments/assets/48fb3df7-3002-43d7-9125-7e62b812711a)
-
+package diagram
+![image](https://github.com/user-attachments/assets/baa26315-8914-4268-b5b9-ca5687f6fb07)
 # RESULT:
 to draw the UML diagram for student enrollment system is executed successfully
